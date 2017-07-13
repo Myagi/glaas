@@ -1,4 +1,6 @@
 
+Based On [https://github.com/dternyak/React-Redux-Flask](https://github.com/dternyak/React-Redux-Flask)
+
 
 ### Test Back-End
 
@@ -9,7 +11,7 @@ $ python test.py --cov-report=term --cov-report=html --cov=application/ tests/
 # glaas
 Good Layoffs As A Service
 
-
+### Basic Workflow
 ```
 pip install
 python manage.py runserver
